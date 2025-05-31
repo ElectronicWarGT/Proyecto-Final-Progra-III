@@ -9,6 +9,10 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  preview: {
+    allowedHosts: ["proyecto-final-progra-iii.onrender.com"],
+    port: 8080
+  },
   plugins: [
     react(),
     mode === 'development' &&
