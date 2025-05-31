@@ -9,3 +9,5 @@ Sigue los pasos del asistente (siguiente, siguiente, instalar).
 Al finalizar, abre una terminal y escribe:
 node -v
 npm -v
+PARA PODER INICIAR EL PROGRAMA EN LA TERMINAL DEBERA DE ESCRIBIR 
+npm run dev
